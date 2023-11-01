@@ -1,5 +1,5 @@
 # measuringDispersion
-Repository latihan untuk Descriptive Statistic - Measuring Dispersion dengan Python menggunakan NumPy dan SciPy.
+Repository latihan untuk Descriptive Statistic - Measuring Dispersion dengan Python menggunakan NumPy dan Pandas.
 
 
 
