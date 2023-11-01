@@ -3,7 +3,7 @@ Repository latihan untuk Descriptive Statistic - Measuring Dispersion dengan Pyt
 
 
 
-Measuring central tendency merupakan konsep statistik untuk menilai sebaran dari suatu data. Ia akan memberikan informasi terkait seberapa jauh suatu titik data dengan titik data lainnya. Hal ini mampu memberikan kita gambaran variasi nilai dari data tersebut. Untuk menggambarkan measuring dispersion, kita dapat menggunakan empat parameter, yaitu range, interquartile range, variance, dan standard deviation.
+Measuring dispersion merupakan konsep statistik untuk menilai sebaran dari suatu data. Ia akan memberikan informasi terkait seberapa jauh suatu titik data dengan titik data lainnya. Hal ini mampu memberikan kita gambaran variasi nilai dari data tersebut. Untuk menggambarkan measuring dispersion, kita dapat menggunakan empat parameter, yaitu range, interquartile range, variance, dan standard deviation.
 
 
 
